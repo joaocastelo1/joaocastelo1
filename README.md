@@ -1,10 +1,3 @@
-
-Olá! Eu sou JOÃO FERREIRA
-
-- Aprendendo a aprender
-- 🌱 tentativas e erros
-- 🤔 development
-
 <div>
   
   <h1 align="center">

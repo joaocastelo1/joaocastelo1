@@ -7,7 +7,7 @@
   
   <p align="center">
     Sou development procuro melhorar a cada dia buscando crescimento e qualidade de vida! 
-    
+     <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
       <img
            width="10%" 
            align="center" 

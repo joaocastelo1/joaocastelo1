@@ -12,7 +12,7 @@
            width="10%" 
            align="center" 
            valign="middle" 
-           src="https://www.youtube.com/channel/UCHJCToIpXfIb7guLZBAhj3w" 
+          src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=JC&style=social" 
            target="_blank" 
       />
     </a>  

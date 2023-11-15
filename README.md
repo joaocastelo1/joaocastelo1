@@ -4,14 +4,15 @@
 
 <div align="center">
 
-  
   <a href="https://github.com/joaocastelo1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocastelo1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocastelo1&layout=compact&langs_count=7&theme=cobalt"/>
 
-
 </div>
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joaocastelo1&theme=radical&mode=weekly" />
+ </div>
 
 <div align="center">
 <a href="https://www.instagram.com/joao_csferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>

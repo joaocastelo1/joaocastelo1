@@ -2,10 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=551cfe&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Castelo;I'm+42+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![Joao Castelo GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocastelo1)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>

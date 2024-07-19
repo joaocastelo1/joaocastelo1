@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/watch?v=NojVAAwwesQ&t=13s" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:cmp.1a.castelopiaui7@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joao_csferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-
+</div>
    
 <div align="center">
  </div>
@@ -30,7 +30,8 @@
 
 <div>
 
- 
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=micheleambrosio&theme=flat&no-frame=false&no-bg=false&margin-w=4)
   
 </div>
 

@@ -5,7 +5,7 @@ Atualmente, trabalho com as seguintes tecnologias:
 
 HTML5 | CSS3 | JavaScript
 
-React.js | Tailwind CSS
+React.js | Tailwind CSS | Next.js
 
 Conhecimentos em Node.js para o back-end.
 

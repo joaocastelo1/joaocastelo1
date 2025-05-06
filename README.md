@@ -47,6 +47,7 @@ Vamos nos conectar!
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="ui design" src="https://img.shields.io/badge/UI%20Design-FF4088?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="ux design" src="https://img.shields.io/badge/UX%20Design-0052CC?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
 </div><br/>
 

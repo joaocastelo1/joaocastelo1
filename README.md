@@ -162,8 +162,10 @@ Vamos nos conectar!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </di>
-<br/>
-<br/>
+<br>
+
+
+<br>
 
 <div>
 

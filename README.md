@@ -167,20 +167,15 @@ Vamos nos conectar!
 
 <div>
 
- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=micheleambrosio&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/AndreRuperto/AndreRuperto/output/dist/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph"
+       src="https://raw.githubusercontent.com/AndreRuperto/AndreRuperto/output/dist/pacman-contribution-graph-dark.svg">
+</picture>
   
 </div>
 <br>
-<div align="center">
-  
- ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg) 
- 
-</div> 
-<br>
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01c3ff&height=120&section=footer"/>
 

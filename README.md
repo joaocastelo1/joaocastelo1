@@ -174,10 +174,22 @@ Vamos nos conectar!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </div>
- 
+ <br>
+ <br>
+  <br>
+ <br>
+ <div align="center">
+  <h3><b>📍 Contador de Visitantes</b></h3>
+</div>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
  <br>
 
- <br>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01c3ff&height=120&section=footer"/>
 

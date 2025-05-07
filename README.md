@@ -1,6 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01c3ff&height=120&section=header"/>
 <br>
+<div>
+
 <picture> <img align="right" src="https://raw.githubusercontent.com/AJ-Derteano/assets/main/Right_Side.gif" width = 250px></picture>
+
+</div>
+<br>
  💻  Olá, eu sou João Castelo de Sousa Ferreira!👋
 
 Sou desenvolvedor Front-end, apaixonado por tecnologia e criação de interfaces que unem funcionalidade e design.
@@ -15,6 +20,7 @@ Conhecimentos em Node.js para o back-end.
 Estou em constante evolução, buscando criar soluções eficientes e intuitivas para a web. 🚀
 Aqui no meu GitHub você encontra projetos que refletem minha paixão por desenvolvimento e aprendizado contínuo.**
 <br>
+
 
 Vamos nos conectar!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=551cfe&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Castelo;I'm+from+Brazil;I+Developer+Front+end;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -168,12 +174,20 @@ Vamos nos conectar!
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </div>
+ 
  <br>
- <br>
- <picture>
+ 
+ <div>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+  
+ </div>
+ 
+ <br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01c3ff&height=120&section=footer"/>
 

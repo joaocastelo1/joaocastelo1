@@ -2,7 +2,7 @@
 <br>
 <div>
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/AJ-Derteano/assets/main/Right_Side.gif" width = 250px></picture>
+
 
 </div>
 <br>

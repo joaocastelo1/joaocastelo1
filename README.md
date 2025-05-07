@@ -32,7 +32,7 @@ Vamos nos conectar!
  </div>
  
 ### 🛠️ Tecnologias e Ferramentas
-
+<di>
 <img 
     align="left" 
     alt="HTML"
@@ -113,6 +113,14 @@ Vamos nos conectar!
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+  <img 
+    align="left" 
+    alt="Vite" 
+    title="Vite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" 
+/>
 <img 
     align="left" 
     alt="MongoDB" 
@@ -153,7 +161,7 @@ Vamos nos conectar!
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+</di>
 <br/>
 <br/>
 

@@ -173,17 +173,10 @@ Vamos nos conectar!
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-</div>
  <br>
  <br>
-<a href="https://raw.githubusercontent.com/joaocastelo1/joaocastelo1/main/output/pacman-contribution-graph-dark.svg">
-  Veja a versão para dark mode
-</a>
-<br>
-
-  <br>
+ 
  <br>
-
  <br>
 
 

@@ -176,18 +176,14 @@ Vamos nos conectar!
 </div>
  <br>
  <br>
- 
+<a href="https://raw.githubusercontent.com/joaocastelo1/joaocastelo1/main/output/pacman-contribution-graph-dark.svg">
+  Veja a versão para dark mode
+</a>
+<br>
+
   <br>
  <br>
- <div align="center">
-  <h3><b>📍 Contador de Visitantes</b></h3>
-</div>
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+
  <br>
 
 

@@ -175,10 +175,20 @@ Vamos nos conectar!
 />
  <br>
  <br>
- 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
  <br>
  <br>
+<picture>
+  <img alt="Pac-Man contribution graph"
+       src="https://raw.githubusercontent.com/AndreRuperto/AndreRuperto/output/dist/pacman-contribution-graph-dark.svg">
+</picture>
 
+ <br>
+ <br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01c3ff&height=120&section=footer"/>

@@ -6,19 +6,192 @@
 
 </div>
 <br>
- 💻  Olá, eu sou João Castelo de Sousa Ferreira!👋
+ # 👨‍💻 João Castelo de Sousa Ferreira
 
-Sou desenvolvedor Front-end, apaixonado por tecnologia e criação de interfaces que unem funcionalidade e design.
-Atualmente, trabalho com as seguintes tecnologias:
+💻 **Full Stack Developer | IT Support Specialist | Technology Enthusiast**
 
-HTML5 | CSS3 | JavaScript
+Olá! Sou um profissional de tecnologia com experiência prática em **suporte técnico, infraestrutura de TI, redes e desenvolvimento de software**. Tenho formação em **Análise de Sistemas** e pós-graduação em **Análise de Programas**, além de diversos cursos em desenvolvimento web, dados e segurança.
 
-React.js | Tailwind CSS | Next.js
+Atualmente busco oportunidades para atuar como **Desenvolvedor Full Stack / Front-End / Back-End**, aplicando meus conhecimentos para criar soluções tecnológicas eficientes.
 
-Conhecimentos em Node.js para o back-end.
+---
 
-Estou em constante evolução, buscando criar soluções eficientes e intuitivas para a web. 🚀
-Aqui no meu GitHub você encontra projetos que refletem minha paixão por desenvolvimento e aprendizado contínuo.**
+# 🚀 Sobre mim
+
+Tenho experiência trabalhando com **suporte de TI em ambiente público e hospitalar**, além de prestar serviços como **freelancer em manutenção de computadores e desenvolvimento de sites**.
+
+Minha experiência inclui:
+
+* Manutenção e formatação de computadores
+* Configuração de redes e roteadores
+* Instalação de sistemas operacionais
+* Suporte a sistemas hospitalares
+* Manutenção de impressoras
+* Instalação de drivers e softwares
+* Montagem e reparo de hardware
+* Criação de sites e portfólios
+
+Também estou estudando:
+
+* manutenção de impressoras Epson, Canon e HP
+* manutenção eletrônica de placas-mãe
+* desenvolvimento web moderno
+
+---
+
+# 🧠 Experiência Profissional
+
+### Técnico de Informática — Prefeitura
+
+* Suporte técnico para usuários
+* Manutenção de computadores
+* Instalação e configuração de sistemas
+* Suporte de rede
+
+### Suporte de TI — Hospital
+
+* Manutenção e suporte a sistemas hospitalares
+* Configuração de rede e computadores
+* Instalação e manutenção de impressoras
+* Resolução de problemas técnicos
+
+### Freelancer de Tecnologia
+
+* Manutenção de computadores
+* Instalação e formatação de sistemas
+* Configuração de redes
+* Criação de sites e portfólios
+* Consultoria em tecnologia
+
+---
+
+# 🎓 Formação Acadêmica
+
+🎓 **Análise de Sistemas**
+🎓 **Pós-graduação em Análise de Programas**
+
+---
+
+# 📚 Cursos e Certificações
+
+Cursos realizados na plataforma **Digital Innovation One (DIO)** e outros treinamentos em tecnologia.
+
+Principais áreas estudadas:
+
+* HTML
+* CSS
+* Tailwind
+* JavaScript
+* React
+* Angular
+* Python
+* Banco de Dados
+* Cybersegurança
+* Backend com Python
+* Power BI
+* Excel com Inteligência Artificial
+
+Participação em diversos **Bootcamps de programação**.
+
+🏆 Ranking atual na plataforma DIO: **XP nível 28**
+
+---
+
+# 🛠 Tecnologias e Ferramentas
+
+### Front-end
+
+* HTML
+* CSS
+* Tailwind
+* JavaScript
+* React
+* Angular
+
+### Back-end
+
+* Python
+* APIs
+
+### Dados
+
+* SQL
+* Power BI
+* Excel
+
+### Infraestrutura
+
+* Redes
+* Manutenção de hardware
+* Instalação de sistemas
+* Configuração de roteadores
+* Manutenção de impressoras
+
+---
+
+# 📂 Projetos em Destaque
+
+## 🏥 Sistema de Gestão Hospitalar
+
+Sistema desenvolvido para gerenciar informações hospitalares como pacientes, leitos, atendimentos e relatórios.
+
+Funcionalidades:
+
+* Dashboard hospitalar
+* Gestão de pacientes
+* Controle de leitos
+* Agendamentos
+* Relatórios
+
+Tecnologias:
+
+* React
+* TypeScript
+* Tailwind
+* Axios
+* React Hook Form
+* Yup
+
+🔗 Demo do projeto
+https://sistema-hospitalar-medcenter.vercel.app/
+
+---
+
+## 💰 Sistema de Controle Financeiro
+
+Aplicação para gerenciamento de finanças pessoais com visualização de dados.
+
+Tecnologias utilizadas:
+
+* React
+* JavaScript
+* Banco de dados
+
+---
+
+## 📊 Dashboards de Análise de Dados
+
+Projetos de análise utilizando **Power BI** e modelagem de dados.
+
+---
+
+# 📈 Estatísticas do GitHub
+
+* Diversos projetos de desenvolvimento web
+* Projetos com React e JavaScript
+* Projetos de análise de dados
+
+---
+
+# 📫 Contato
+
+LinkedIn https://www.linkedin.com/in/joao-castelo-ferreira/
+Email jcrocap2@gmail.com
+
+---
+
+⭐ Sempre aprendendo e desenvolvendo novas soluções em tecnologia.
+
 <br>
 
 
